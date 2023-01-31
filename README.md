@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anoeller (Alessi Reiter)
-- 👀 I’m interested in data analytics and front-end web development.
-- 🌱 I’m currently learning data analytics.
+- 👀 I’m interested in front-end web development.
+- 🌱 I’m currently learning how to develop my own website.
 - 📫 How to reach me :
    - Email : anoeller312@yahoo.com
    - LinkedIn : https://www.linkedin.com/in/alessi-reiter/
