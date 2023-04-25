@@ -9,5 +9,5 @@
 <h2> Connect with me: </h2>
 <ul>
    <li> Email : anoeller312@yahoo.com </li>
-   <li> <a href="https://www.linkedin.com/in/alessi-reiter/">LinkedIn</a> </li>
+   <li> <a blank="" href="https://www.linkedin.com/in/alessi-reiter/">LinkedIn</a> </li>
 </ul>
