@@ -7,7 +7,7 @@
 <p> </p>
 <h2> Languages I am learning: </h2>
 <h2> Connect with me: </h2>
-<ul>
+<ol>
    <li> Email : anoeller312@yahoo.com </li>
-   <li> <a blank="" href="https://www.linkedin.com/in/alessi-reiter/">LinkedIn</a> </li>
-</ul>
+   <li> <a target="_blank" href="https://www.linkedin.com/in/alessi-reiter/">LinkedIn</a> </li>
+</ol>
