@@ -8,7 +8,7 @@
 <div>
 
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,js,java)](https://skillicons.dev)
-<img src="sqlLogo.jpg" alt="SQL" width=40px height=40px>
+<img src="sqlLogo.jpg" alt="SQL" width=45px height=45px>
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,eclipse)](https://skillicons.dev)
 
