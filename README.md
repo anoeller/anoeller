@@ -49,7 +49,7 @@
 <!-- Connection Links -->
 <div>
 
-[![Connect](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![Connect](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alessi-reiter/)
 
 <h2> Connect with me: </h2>
 <ul>
