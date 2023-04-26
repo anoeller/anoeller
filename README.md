@@ -3,30 +3,24 @@
 <p> I'm a very creative yet analytical person excited to show off my newly found passion for software development!</p>
 </div>
 
-<!-- My Skills -->
-<h2> My Skills: </h2>
+## My skills:
+
 <div>
 
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,js,java)](https://skillicons.dev)
-<img src="sql.png" alt="SQL">
-
-</div>
-<div>
+<img src="logoSQL.png" alt="SQL" >
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,eclipse)](https://skillicons.dev)
 
 </div>
 
-<!-- Currently learning skills -->
-<h2> I'm currently learning: </h2>
+## I'm currently learning:
+
 <div>
 
 [![Learning](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
 </div>
-
-<!-- Want to learn skills -->
-<!-- <h2> I want to learn: </h2> -->
 
 ## I want to learn:
 
@@ -36,17 +30,20 @@
 
 </div>
 
-<!-- Github Stats -->
+## My Stats:
+
 <div>
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=anoeller&theme=blue-green)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=anoeller&theme=blue-green)(https://github-readme-stats.vercel.app/api/top-langs/?username=anoeller)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anoeller)](https://github.com/anoeller/github-readme-stats)
+<!-- (https://git.io/streak-stats)
+
+[![Top Langs]](https://github.com/anoeller/github-readme-stats) -->
 
 </div>
 
-<!-- Connection Links -->
-<h2> Connect with me: </h2>
+## Connect with me:
+
 <div>
 
 [![Connect](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alessi-reiter/)
