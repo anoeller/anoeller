@@ -34,7 +34,7 @@
 
 <div>
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=anoeller&theme=blue-green)      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anoeller)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=anoeller&theme=blue-green) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anoeller)](https://git.io/streak-stats)
 
 </div>
 
