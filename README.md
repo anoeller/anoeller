@@ -34,11 +34,9 @@
 
 <div>
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=anoeller&theme=blue-green)(https://github-readme-stats.vercel.app/api/top-langs/?username=anoeller)]
+[![GitHub Streak](https://streak-stats.demolab.com?user=anoeller&theme=blue-green)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anoeller)](https://git.io/streak-stats)
 
-<!-- (https://git.io/streak-stats)
-
-[![Top Langs]](https://github.com/anoeller/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anoeller)](https://github.com/anoeller/github-readme-stats) -->
 
 </div>
 
