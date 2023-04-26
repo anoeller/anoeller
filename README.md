@@ -21,3 +21,4 @@
    <li> Email : anoeller312@yahoo.com </li>
    <li> <a href="https://www.linkedin.com/in/alessi-reiter/" target="_blank">LinkedIn</a> </li>
 </ul>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anoeller&layout=compact)](https://github.com/anoeller)
